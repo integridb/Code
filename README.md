@@ -27,6 +27,11 @@ To run the code,
 ```
 - In interidb/, 
 ``` 
+    $ make create
+    $ ./createtables
+```
+    to create test tables. Change createtables.cpp to adjust table size.
+```
     $ make main 
     $ ./main
 ```
