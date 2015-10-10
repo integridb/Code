@@ -1,5 +1,9 @@
 IntegriDB: Verifiable SQL for Outsourced Database.
 ====================================================
+Authors.
+----------------------------------------------------
+Yupeng Zhang, Jonathan Katz, Charalampos Papamanthou
+
 Build instructions.
 ----------------------------------------------------
 IntegriDB relies on the following libraries:
@@ -37,3 +41,6 @@ To run the code,
 ```
 
 Please adjust the paths in Makefile according to the settings on your machine. The default setting assumes integridb/ and ate-pairing/ are located at /home/ubuntu/
+References:
+---------------------------------------------------
+Zhang, Y., Katz, J., & Papamanthou, C. (2015, October). IntegriDB: Verifiable SQL for Outsourced Databases. In Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (pp. 1480-1491). ACM.
